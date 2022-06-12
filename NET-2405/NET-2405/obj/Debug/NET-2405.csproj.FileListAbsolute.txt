@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\NET-2405\NET-2405\bin\Debug\NET-2405.exe.config
+C:\Users\danie\source\repos\NET-2405\NET-2405\bin\Debug\NET-2405.exe
+C:\Users\danie\source\repos\NET-2405\NET-2405\bin\Debug\NET-2405.pdb
+C:\Users\danie\source\repos\NET-2405\NET-2405\obj\Debug\NET-2405.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\NET-2405\NET-2405\obj\Debug\NET-2405.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\NET-2405\NET-2405\obj\Debug\NET-2405.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\NET-2405\NET-2405\obj\Debug\NET-2405.exe
+C:\Users\danie\source\repos\NET-2405\NET-2405\obj\Debug\NET-2405.pdb
