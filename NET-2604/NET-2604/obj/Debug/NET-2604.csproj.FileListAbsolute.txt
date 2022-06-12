@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\NET-2604\NET-2604\bin\Debug\NET-2604.exe.config
+C:\Users\danie\source\repos\NET-2604\NET-2604\bin\Debug\NET-2604.exe
+C:\Users\danie\source\repos\NET-2604\NET-2604\bin\Debug\NET-2604.pdb
+C:\Users\danie\source\repos\NET-2604\NET-2604\obj\Debug\NET-2604.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\NET-2604\NET-2604\obj\Debug\NET-2604.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\NET-2604\NET-2604\obj\Debug\NET-2604.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\NET-2604\NET-2604\obj\Debug\NET-2604.exe
+C:\Users\danie\source\repos\NET-2604\NET-2604\obj\Debug\NET-2604.pdb
