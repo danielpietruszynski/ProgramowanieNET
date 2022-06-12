@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\NET-1005\NET-1005\bin\Debug\NET-1005.exe.config
+C:\Users\danie\source\repos\NET-1005\NET-1005\bin\Debug\NET-1005.exe
+C:\Users\danie\source\repos\NET-1005\NET-1005\bin\Debug\NET-1005.pdb
+C:\Users\danie\source\repos\NET-1005\NET-1005\obj\Debug\NET-1005.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\NET-1005\NET-1005\obj\Debug\NET-1005.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\NET-1005\NET-1005\obj\Debug\NET-1005.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\NET-1005\NET-1005\obj\Debug\NET-1005.exe
+C:\Users\danie\source\repos\NET-1005\NET-1005\obj\Debug\NET-1005.pdb
